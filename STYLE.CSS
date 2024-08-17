@@ -1,0 +1,127 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+ display: inline-block;
+ overflow: hidden;
+background-color: rgba(55, 104, 156, 0.4); 
+}
+.imgtxt{
+    width: 200px;
+    position: relative;
+    top: 150px;
+    left: 450px;
+    font-weight:900;
+    z-index: 1;
+    font-size:45px;
+}
+
+img{
+    height: 550px;
+    width: 350px;
+    position: relative;
+    top: -190px;
+    left: 400px;
+    border-radius: 10px;
+    opacity: 0.5;
+
+ }
+   .item2{
+    border: 1px solid black;
+    width: 350px;
+    height: 550px;
+    position: relative; 
+     top: -745px; 
+     left: 750px;
+     background-color: white;
+     border-radius: 10px;
+ } 
+ h1{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: -80px;
+ }
+p{
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.imptemail{
+    position: relative;
+    top: 140px;
+    width: 300px;
+    left: 20px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.imptpassword{
+    position: relative;
+    top: 230px;
+    width: 300px;
+    left: 20px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+a{
+    text-decoration: none;
+}
+label{
+    position: relative;
+    top: 250px;
+    left: 20px;
+}
+.forgotp{
+    position: relative;
+    top: 250px;
+    left: 100px;
+}
+.loginbtn{
+    position: relative;
+    top: 280px;
+    left: 30px; 
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: rgb(173, 114, 228);
+    color: white;
+}
+.facebook{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    top: 310px;
+    opacity: 1;
+    
+}
+.twitterx{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    top: 310px;
+    opacity: 1;
+    border-radius: 50%;
+}
+.instagram{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    top: 310px;
+    opacity: 1;
+}
+.dftLg{
+    top: 310px;
+    left: -100px; ;
+}
+H3{
+    position: relative;
+    top:320px ;
+    left: 50px;
+    color: gray;
+    font-weight:900;
+    font-size: x-large;
+}
